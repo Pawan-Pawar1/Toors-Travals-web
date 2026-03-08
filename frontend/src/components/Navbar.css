@@ -1,0 +1,28 @@
+.logo-img{
+    width: 8rem;
+    height: 5rem;
+    border-radius: 5%;
+      position: fixed;
+    top: 1.1rem;
+    left: 1rem;
+}
+#navbar{
+    position: fixed;
+    top: 2rem;
+    left: 9rem;
+    width: 60%;
+    height: 3rem;
+    font-size: 1.3rem;
+    
+   
+}
+ .nav-text{
+    font-size: 1.5rem;
+    
+ }
+
+ .watsapp-book{
+    position: fixed;
+    top: 2rem;
+    right: 2rem;
+ }
