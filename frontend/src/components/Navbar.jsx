@@ -22,7 +22,7 @@ export default function Navbar(){
           </Link>
         </li>
         <li className="nav-item" >
-            <Link className="nav-link ">
+            <Link className="nav-link " to={"/CarBookingForm"}>
             <i className="fa-solid fa-car"></i>
             <br /> 
           <span className="nav-text">book</span>
